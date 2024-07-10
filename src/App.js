@@ -1,19 +1,14 @@
-import { useState } from "react";
-import weather from "./weather";
- 
-const searchbar =()=>{
-    return(
-        <div>
-        <weather/> 
-        
-        </div>
-    )
-    
+import Weather from "./Weather";
+import LandingPage from "./LandingPage";
 
-    }
-    export default searchbar;
-    
-    
-        
-    
 
+const App = () => {
+  return (
+    <div>
+        <LandingPage/>
+      <Weather />
+    
+    </div>
+  );
+};
+export default App;

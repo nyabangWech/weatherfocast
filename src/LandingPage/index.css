@@ -1,0 +1,52 @@
+.images{
+    width:1850px;
+    justify-content: center;
+    height:600px;
+    /* padding-bottom: 20px; */
+    /* /* padding-left: 50px; */
+    padding-right: 50px; 
+    padding-top: 40px;
+
+}.navabar{
+    display: flex;
+    gap:50px;
+    
+
+}input{
+    border:solid 1px;
+    font-size: 20px;
+    padding:6px;
+
+}.rayn{
+    font-size: 40px;
+    color: blue;
+}.weatherpattern{
+    display:flex;
+    gap:70px;
+    padding-top: 100px;
+}.weather1{
+    display: flex;
+    padding-left: 120%;
+    
+}.weather2{
+    display: flex;
+    padding-right: 80px;
+}.weather3{
+    display:flex;
+    padding-left: 10%;
+}.monthlyrainfall{
+    display:flex;
+ }.weathercondition{
+    display: flex;
+    gap:20%;
+    padding-left: 50%; 
+    
+}.condition{
+    padding-left: 66%;
+    
+}
+    
+
+
+    
+
